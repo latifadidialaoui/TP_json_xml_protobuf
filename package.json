@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "protobufjs": "^7.4.0",
+    "xml-js": "^1.6.11"
+  }
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message Employees {
+  int32 id = 1;
+  string name = 2;
+  int32 salary = 3;
+}
+
+message Employee {
+  repeated Employee employee =1;
+}
